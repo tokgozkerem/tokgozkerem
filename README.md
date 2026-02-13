@@ -13,7 +13,7 @@ Backend-leaning software engineer focused on **Python** and **data-driven system
   Live: https://donutclicker.net
 - **TicketStorm API** — High-concurrency ticketing engine focused on data integrity  
   Prevents double-booking via **PostgreSQL Row-Level Locking** and atomic transactions; manages background tasks (notifications/expiration) with **Celery and Redis**.  
-  [TicketStorm Repo](https://github.com/tokgozkerem/TicketStorm-AP
+  [TicketStorm Repo](https://github.com/tokgozkerem/TicketStorm-AP)
 - **ShopApp** — Django e-commerce (backend-focused)  
   Auth, cart logic, normalized data models, ORM query optimization  
   [ShopApp Repo](https://github.com/tokgozkerem/shopApp)
