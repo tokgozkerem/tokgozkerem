@@ -1,8 +1,8 @@
-### hey, i'm kerem
+### hey, i'm kerem 👋
 
 computer engineering graduate based in warsaw, mostly focused on python backend development.
 
-i like building small systems that actually do something — APIs, automation tools, data-heavy apps, and the occasional side project that gets out of hand.
+i enjoy building useful things, learning how systems work under the hood, and turning small ideas into actual projects people can use.
 
 ### things i've built
 
@@ -18,16 +18,16 @@ i like building small systems that actually do something — APIs, automation to
 - **[ShopApp](https://github.com/tokgozkerem/shopApp)**  
   Django e-commerce app with authentication, cart logic and relational data models
 
-### stack
+### what i'm into
 
-`python` `fastapi` `django` `flask` `postgresql` `sql` `pytest` `docker` `git`
+`python` `fastapi` `django` `postgresql` `sql` `pytest` `docker`
 
 ### currently
 
-- sharpening python and problem-solving
-- building backend projects
-- looking for junior software engineering opportunities
+- getting better at backend engineering and system design
+- building and shipping projects
+- open to junior software engineering opportunities
 
-### elsewhere
+### say hi
 
 [linkedin](https://www.linkedin.com/in/keremtokgoz/) · [email](mailto:kerem.tokgoz@outlook.com)
