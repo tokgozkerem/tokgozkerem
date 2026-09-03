@@ -1,26 +1,33 @@
-# Kerem Tokgöz
+### hey, i'm kerem
 
-Computer Engineering graduate based in Warsaw, focused on Python backend development.
+computer engineering graduate based in warsaw, mostly focused on python backend development.
 
-### Projects
+i like building small systems that actually do something — APIs, automation tools, data-heavy apps, and the occasional side project that gets out of hand.
 
-**[TicketStorm API](https://github.com/tokgozkerem/TicketStorm-AP)**  
-Ticket reservation API built around concurrency and data consistency.  
-PostgreSQL row locking, atomic transactions, Celery, Redis, pytest.
+### things i've built
 
-**[Donut Clicker](https://donutclicker.net)**  
-Browser game used by 70k+ users, with versioned saves and a FastAPI/PostgreSQL analytics backend.
+- **[TicketStorm API](https://github.com/tokgozkerem/TicketStorm-AP)**  
+  ticket reservation backend with PostgreSQL row locking, atomic transactions, Celery, Redis and concurrency tests
 
-**[UCL Draw Simulator](https://github.com/tokgozkerem/ucl_draw_simulator)**  
-UEFA Champions League draw simulator with 435k+ views.
+- **[Donut Clicker](https://donutclicker.net)**  
+  browser game used by 70k+ users, with versioned saves and a FastAPI/PostgreSQL analytics backend
 
-**[ShopApp](https://github.com/tokgozkerem/shopApp)**  
-Django e-commerce backend with authentication, cart logic and relational data models.
+- **[UCL Draw Simulator](https://github.com/tokgozkerem/ucl_draw_simulator)**  
+  Champions League draw simulator with 435k+ views
 
-### Stack
+- **[ShopApp](https://github.com/tokgozkerem/shopApp)**  
+  Django e-commerce app with authentication, cart logic and relational data models
 
-`Python` `FastAPI` `Django` `Flask` `PostgreSQL` `SQL` `pytest` `Docker` `Git`
+### stack
 
-### Links
+`python` `fastapi` `django` `flask` `postgresql` `sql` `pytest` `docker` `git`
 
-[LinkedIn](https://www.linkedin.com/in/keremtokgoz/) · [Email](mailto:kerem.tokgoz@outlook.com)
+### currently
+
+- sharpening python and problem-solving
+- building backend projects
+- looking for junior software engineering opportunities
+
+### elsewhere
+
+[linkedin](https://www.linkedin.com/in/keremtokgoz/) · [email](mailto:kerem.tokgoz@outlook.com)
