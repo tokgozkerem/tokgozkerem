@@ -1,34 +1,26 @@
-# Hi there, I'm Kerem! 👋
+# Kerem Tokgöz
 
-Backend-leaning software engineer focused on **Python** and **data-driven systems**.
+Computer Engineering graduate based in Warsaw, focused on Python backend development.
 
-- Building RESTful services with **Django / Flask** and **SQL**
-- Interested in **reliability**, **performance**, and clean system design
-- Based in **Warsaw, Poland**
+### Projects
 
-## Projects
+**[TicketStorm API](https://github.com/tokgozkerem/TicketStorm-AP)**  
+Ticket reservation API built around concurrency and data consistency.  
+PostgreSQL row locking, atomic transactions, Celery, Redis, pytest.
 
-- **Donut Clicker** — production web app with **46,000+ users**  
-  Persistent state, versioned saves + migrations, performance optimizations, Cloudflare deployment  
-  Live: https://donutclicker.net
-- **TicketStorm API** — High-concurrency ticketing engine focused on data integrity  
-  Prevents double-booking via **PostgreSQL Row-Level Locking** and atomic transactions; manages background tasks (notifications/expiration) with **Celery and Redis**.  
-  [TicketStorm Repo](https://github.com/tokgozkerem/TicketStorm-AP)
-- **ShopApp** — Django e-commerce (backend-focused)  
-  Auth, cart logic, normalized data models, ORM query optimization  
-  [ShopApp Repo](https://github.com/tokgozkerem/shopApp)
+**[Donut Clicker](https://donutclicker.net)**  
+Browser game used by 70k+ users, with versioned saves and a FastAPI/PostgreSQL analytics backend.
 
-- **UCL Draw Simulator** — Champions League draw rules simulation (JS)  
-  235,000+ views  
-  [UCL Draw Simulator Repo](https://github.com/tokgozkerem/ucl_draw_simulator)
+**[UCL Draw Simulator](https://github.com/tokgozkerem/ucl_draw_simulator)**  
+UEFA Champions League draw simulator with 435k+ views.
 
-## Tech I use
-**Python, SQL, Django, Flask, JavaScript, Git, GitHub Actions, Docker (basic), Cloudflare**
+**[ShopApp](https://github.com/tokgozkerem/shopApp)**  
+Django e-commerce backend with authentication, cart logic and relational data models.
 
-## What I'm looking for
-Junior/early-career roles in **Backend (Python)**, **SDET (Python)**, or **QA Automation**.
+### Stack
 
-## Links
-- [LinkedIn](https://www.linkedin.com/in/keremtokgoz/)
-- GitHub: https://github.com/tokgozkerem
-- Email: kerem.tokgoz@outlook.com
+`Python` `FastAPI` `Django` `Flask` `PostgreSQL` `SQL` `pytest` `Docker` `Git`
+
+### Links
+
+[LinkedIn](https://www.linkedin.com/in/keremtokgoz/) · [Email](mailto:kerem.tokgoz@outlook.com)
