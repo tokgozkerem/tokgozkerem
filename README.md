@@ -6,6 +6,9 @@ i enjoy building useful things, learning how systems work under the hood, and tu
 
 ### things i've built
 
+- **[Solitaire All Day](www.solitaireallday.com)**
+  fast, SEO-focused Klondike Solitaire web app with certified winnable deals, Daily mode and a TypeScript game engine
+
 - **[TicketStorm API](https://github.com/tokgozkerem/TicketStorm-AP)**  
   ticket reservation backend with PostgreSQL row locking, atomic transactions, Celery, Redis and concurrency tests
 
@@ -20,10 +23,10 @@ i enjoy building useful things, learning how systems work under the hood, and tu
 
 ### what i'm into
 
-`python` `fastapi` `django` `postgresql` `sql` `pytest` `docker`
+`python` `fastapi` `django` `postgresql` `sql` `pytest` `typescript` `swift`
 
 ### currently
-
+- developing SMASH, a native iOS puzzle game with Swift and SpriteKit
 - getting better at backend engineering and system design
 - building and shipping projects
 - open to junior software engineering opportunities
