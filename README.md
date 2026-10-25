@@ -7,7 +7,7 @@ i enjoy building useful things, learning how systems work under the hood, and tu
 ### things i've built
 
 - **[Solitaire All Day](www.solitaireallday.com)**
-  fast, SEO-focused Klondike Solitaire web app with certified winnable deals, Daily mode and a TypeScript game engine
+  fast, SEO-focused Klondike Solitaire web app with certified winnable deals, TypeScript game engine
 
 - **[TicketStorm API](https://github.com/tokgozkerem/TicketStorm-AP)**  
   ticket reservation backend with PostgreSQL row locking, atomic transactions, Celery, Redis and concurrency tests
